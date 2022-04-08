@@ -7,7 +7,7 @@ function App() {
     <nav class="font-sans text-lg font-light">
       <div class="flex items-center justify-between bg-gray-500 p-1">
         <div class="block w-56">
-          <button class="flex-none items-center px-3 py-2 text-teal-lighter border-teal-light hover:text-white hover:border-white">
+          <button class="flex-none items-center px-0 py-0 text-teal-lighter border-teal-light hover:text-white hover:border-white">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 10h16M4 14h16M4 18h16" />
           </svg>
